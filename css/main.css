@@ -29,3 +29,15 @@ div {
   color: #fff;
   border-color: #000;
 }
+
+.btn-subtle {
+  background-color: #ccc;
+}
+
+.btn-ghost {
+  background-color: #fff;
+}
+
+.btn-warning {
+  background-color: #f33;
+}

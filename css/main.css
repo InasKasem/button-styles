@@ -23,3 +23,9 @@ div {
   border-color: #333;
   font-size: 1.125rem;
 }
+
+.btn:hover {
+  background-color: #000;
+  color: #fff;
+  border-color: #000;
+}
